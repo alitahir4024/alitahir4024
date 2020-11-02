@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Ali-Tahir4024)
 
-<h3 align="center">I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enthusiast, a proud Computer Nerd & Dev Freak with 'ES Comma' in my head. Addicted to dev-community with great vision to change the world with open-source. Do check-out my repo's</h3>
+I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enthusiast, a proud Computer Nerd & Dev Freak with 'ES Comma' in my head. Addicted to dev-community with great vision to change the world with open-source. Do check-out my repo's.
 
 💁‍♂️ **Talking about Personal Stuffs:**
 
@@ -53,10 +53,10 @@ Text         7 mins          ▒░░░░░░░░░░░░░░░░
 <!-- TODO-IST:START -->
 
 🏆 6,924 Karma Points.  
-🌸 Drinked 200 cups of tea.
-🗓 Completed 23 tasks this week.
-✅ Completed 200 Projects so far.  
-⏳ Longest streak is 10 days.
+🌸 Drinked 200 cups of tea.     
+🗓 Completed 23 tasks this week.    
+✅ Completed 200 Projects so far.     
+⏳ Longest streak is 10 days.    
 
 <!-- TODO-IST:END -->
 
