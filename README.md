@@ -23,7 +23,7 @@ I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enth
 <br/>
 
 🧑🏻‍🤝‍🧑🏻 **Connect with me:**
-
+<br/>
 <p align="left">
 <a href="https://twitter.com/alitahi13852575" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alitahi13852575" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alitahir4024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alitahir4024" height="30" width="40" /></a>
