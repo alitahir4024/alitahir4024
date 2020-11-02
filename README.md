@@ -61,7 +61,7 @@ Text         7 mins          ▒░░░░░░░░░░░░░░░░
 <!-- TODO-IST:START -->
 
 🏆 6,924 Karma Points.  
-🌸 Drinked 200 cups of tea.     
+☕️ Drinked 200 cups of tea.     
 🗓 Completed 23 tasks this week.    
 ✅ Completed 200 Projects so far.     
 ⏳ Longest streak is 10 days.    
