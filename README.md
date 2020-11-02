@@ -46,10 +46,10 @@ I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enth
 <!--START_SECTION:waka-->
 
 ```text
-MERN Stack   7 hrs 34 mins   █████████████████████▓░░░   86.48 %
+MERN Stack   6 days 16 hrs   ███████████████████████░░   86.48 %
+JavaScript   5 days 10 hrs   ████████████████████░░░░░   70.57 %
+Node JS      4 days 20 hrs   █████████████████░░░░░░░░   60.38 %
 Markdown     45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-JavaScript   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
