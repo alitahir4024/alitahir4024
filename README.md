@@ -6,7 +6,7 @@ I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enth
 
 💁‍♂️ **Talking about Personal Stuffs:**
 
-- 👨‍💻 I’m currently working With **WebxMob Cloud Technologies**;
+- 👨‍💻 I’m currently working with different **tech companies** and **professionals** and also I'm working as an **freelanccer**;
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS, MongoDB**;
 
