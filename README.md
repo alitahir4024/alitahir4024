@@ -30,7 +30,7 @@ I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enth
 <br/>
 <p align="left">
 <a href="https://linkedin.com/in/alitahir4024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alitahir4024" height="30" width="40" /></a>
-<a href="https://twitter.com/alitahi13852575" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alitahi13852575" height="30" width="40" /></a>
+<a href="https://twitter.com/alitahir4024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alitahi13852575" height="30" width="40" /></a>
 <a href="https://fb.com/ali tahir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ali tahir" height="30" width="40" /></a>
 <a href="https://instagram.com/alitahir4024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alitahir4024" height="30" width="40" /></a>
 <a href="https://dribbble.com/alitahir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="alitahir" height="30" width="40" /></a>
