@@ -31,7 +31,7 @@ I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enth
 <p align="left">
 <a href="https://linkedin.com/in/alitahir4024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alitahir4024" height="30" width="40" /></a>
 <a href="https://twitter.com/alitahir4024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alitahi13852575" height="30" width="40" /></a>
-<a href="https://fb.com/ali tahir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ali tahir" height="30" width="40" /></a>
+<a href="https://fb.com/alitahir4024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ali tahir" height="30" width="40" /></a>
 <a href="https://instagram.com/alitahir4024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alitahir4024" height="30" width="40" /></a>
 <a href="https://dribbble.com/alitahir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="alitahir" height="30" width="40" /></a>
 <a href="https://www.behance.net/alitahir7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="alitahir7" height="30" width="40" /></a>
@@ -88,8 +88,8 @@ Markdown     45 mins         ██░░░░░░░░░░░░░░░
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-tahir4024&show_icons=true&locale=en" alt="ali-tahir4024" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alitahir4024&show_icons=true&locale=en" alt="alitahir4024" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-tahir4024&show_icons=true&locale=en&layout=compact" alt="ali-tahir4024" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitahir4024&show_icons=true&locale=en&layout=compact" alt="alitahir4024" /></p>
 
 </details>
