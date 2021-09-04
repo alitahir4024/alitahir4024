@@ -8,7 +8,6 @@ I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enth
 
 - 👨‍💻 I’m currently working with different **tech companies** and **professionals** and also I'm working as an **freelanccer**;
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS, MongoDB**;
 
 - 👯 I’m looking to collaborate on **open source projects**;
 
@@ -39,18 +38,28 @@ I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enth
 
 <br/>
 
-🔧 **Languages and Tools:**
+🛠️ **Languages and Tools:**
 <br/>
 
-<code><img height="20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GraphQL](https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" "MarineGEO logo")
 
 <br/>
 
@@ -60,9 +69,9 @@ I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enth
 
 ```text
 MERN Stack   6 days 16 hrs   ███████████████████████░░   86.48 %
-JavaScript   5 days 10 hrs   ████████████████████░░░░░   70.57 %
-Node JS      4 days 20 hrs   █████████████████░░░░░░░░   60.38 %
-Markdown     45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+React Native 5 days 10 hrs   ████████████████████░░░░░   70.57 %
+NodeJS      4 days 20 hrs    █████████████████░░░░░░░░   60.38 %
+Markdown     45 mins         ███████████░░░░░░░░░░░░░░   08.61 %
 ```
 
 <!--END_SECTION:waka-->
@@ -93,3 +102,9 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitahir4024&show_icons=true&locale=en&layout=compact" alt="alitahir4024" /></p>
 
 </details>
+
+<!--   GitHub stats graph -->
+
+### 📈 GitHub Activity Graph:
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alitahir4024&theme=react-dark)
