@@ -119,6 +119,8 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitahir4024&show_icons=true&locale=en&layout=compact" alt="alitahir4024" /></p>
   
+<br/>
+  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alitahir4024&theme=highcontrast)
 
 </details>
