@@ -121,6 +121,10 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 </details>
 
+<!-- GitHub Streak Stats -->
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alitahir4024&theme=highcontrast)
+
 <!--   GitHub stats graph -->
 
 ### 📈 GitHub Activity Graph:
