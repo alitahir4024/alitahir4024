@@ -19,7 +19,7 @@ I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enth
 
 - 📝 Checkout My [Resume](https://docs.google.com/document/d/1ktI9X-sVRl3ayTZ8w9vm2nBK1r9ubf1kE9GXCelkZTs/edit?usp=sharing)
 
-- 🎸 My Favourite music bands are: **Twenty One Pilots and Motionless In Whites.**;
+- 🎸 My Favourite music bands are: **Twenty One Pilots and AAG The Band.**;
 
 - 🎧 My Favourite singers are: **The Weekend, Eminem and Adam Lambert.**;
 
