@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="20px" />, I'm [Ali Tahir](https://alitahir.netlify.app/), aka The Dev Ninja among my fellow developers 😁.
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" />, I'm [Ali Tahir](https://alitahir.netlify.app/), aka The Dev Ninja among my fellow developers 😁.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alitahir4024) [![GitHub followers](https://img.shields.io/github/followers/alitahir4024.svg?style=social&label=Follow)](https://github.com/alitahir4024)
 
