@@ -41,10 +41,10 @@ I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enth
 🛠️ **Languages and Tools:**
 <br/>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -74,9 +74,6 @@ I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enth
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
 <br/>
@@ -113,15 +110,17 @@ Markdown     45 mins         ███████████░░░░░░
 
 <br/>
 
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
+<p> NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github. </p>
+ 
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alitahir4024&show_icons=true&locale=en&layout=compact&theme=highcontrast)
+  
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alitahir4024&show_icons=true&locale=en" alt="alitahir4024" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitahir4024&show_icons=true&locale=en&layout=compact" alt="alitahir4024" /></p>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitahir4024&show_icons=true&locale=en)
   
 <br/>
   
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alitahir4024&theme=highcontrast)
+![My GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=alitahir4024&theme=highcontrast)
 
 </details>
 
@@ -129,4 +128,4 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 ### 📈 GitHub Activity Graph:
 
-![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alitahir4024&theme=react-dark)
+![My GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=alitahir4024&theme=react-dark)
