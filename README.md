@@ -129,4 +129,4 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 ### 📈 GitHub Activity Graph:
 
-[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alitahir4024&theme=dracula)](https://github.com/alitahir4024/github-readme-activity-graph)
+![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alitahir4024&theme=react-dark)
