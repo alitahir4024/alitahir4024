@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" />, I'm [Ali Tahir](https://alitahir.netlify.app/), aka The Dev Ninja among my fellow developers 😁.
 
-![](https://visitor-badge.glitch.me/badge?page_id=alitahir4024) [![GitHub followers](https://img.shields.io/github/followers/alitahir4024.svg?style=social&label=Follow)](https://github.com/alitahir4024)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Falitahir4024%2Falitahir4024&label=Profile%20Visits&labelColor=%23515151&countColor=%230d76b6&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Falitahir4024%2Falitahir4024) [![GitHub followers](https://img.shields.io/github/followers/alitahir4024.svg?style=social&label=Follow)](https://github.com/alitahir4024)
 
 I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enthusiast, a proud Computer Nerd & Dev Freak with 'ES Comma' in my head. Addicted to dev-community with great vision to change the world with open-source. Do check-out my repo's.
 
