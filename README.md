@@ -128,4 +128,4 @@ Markdown     45 mins         ███████████░░░░░░
 
 ### 📈 GitHub Activity Graph:
 
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alitahir4024&bg_color=000000&color=27fd02&line=20da05&point=ffffff&area=true&hide_border=true)](https://github.com/alitahir4024/github-readme-activity-graph)
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alitahir4024&bg_color=000000&color=27fd02&line=20da05&point=ffffff&area=true&hide_border=true)
