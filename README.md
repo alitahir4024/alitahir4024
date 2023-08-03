@@ -2,12 +2,11 @@
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Falitahir4024%2Falitahir4024&label=Profile%20Visits&labelColor=%23515151&countColor=%230d76b6&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Falitahir4024%2Falitahir4024) [![GitHub followers](https://img.shields.io/github/followers/alitahir4024.svg?style=social&label=Follow)](https://github.com/alitahir4024)
 
-I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enthusiast, a proud Computer Nerd & Dev Freak with 'ES Comma' in my head. Addicted to dev-community with great vision to change the world with open-source. Do check-out my repo's.
+Seasoned, forward-looking Web and Mobile Application Developer with 2yrs+ experience in creating and executing logical, innovative solutions to complex problems along with working in an agile development environment . I’m an ambitious problem solver holding passion for exploring and working on new things. Moreover I have knowledge and experience about all aspects of software development life cycle and end-to-end project management, from concept through to development and delivery. Consistently recognized as a hands-on and competent team member, skilled at coordinating cross-functional teams in a fast-paced, deadline-driven environment to steer timely-project completion with budgetary constraints. As someone who takes responsibility for his own personal development, I’m continually evaluating and upgrading my skills to stay at the cutting edge of computer science field
 
 💁‍♂️ **Talking about Personal Stuffs:**
 
 - 👨‍💻 I’m currently working with different **tech companies** and **professionals** and also I'm working as an **freelanccer**;
-
 
 - 👯 I’m looking to collaborate on **open source projects**;
 
@@ -19,7 +18,7 @@ I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enth
 
 - 📝 Checkout My [Resume](https://docs.google.com/document/d/1ktI9X-sVRl3ayTZ8w9vm2nBK1r9ubf1kE9GXCelkZTs/edit?usp=sharing)
 
-- 🎸 My Favourite music bands are: **Twenty One Pilots and AAG The Band.**;
+- 🎸 My Favourite music bands are: **Twenty One Pilots and AAG.**;
 
 - 🎧 My Favourite singers are: **The Weekend, Eminem and Adam Lambert.**;
 
@@ -77,33 +76,6 @@ I'm [Ali Tahir](https://alitahir.netlify.app/), a Full stack Developer, Web Enth
 
 
 <br/>
-
-📊 **This Week I Spent My Time On:**
-
-<!--START_SECTION:waka-->
-
-```text
-MERN Stack   6 days 16 hrs   ███████████████████████░░   86.48 %
-React Native 5 days 10 hrs   ████████████████████░░░░░   70.57 %
-NodeJS      4 days 20 hrs    █████████████████░░░░░░░░   60.38 %
-Markdown     45 mins         ███████████░░░░░░░░░░░░░░   08.61 %
-```
-
-<!--END_SECTION:waka-->
-
-<br/>
-
-🚧 **My TodoList Stats:**
-
-<!-- TODO-IST:START -->
-
-🏆 6,924 Karma Points.  
-☕️ Drinked 200 cups of tea.     
-🗓 Completed 23 tasks this week.    
-✅ Completed 200 Projects so far.     
-⏳ Longest streak is 10 days.    
-
-<!-- TODO-IST:END -->
 
 <details>
 <summary>📈 My GitHub Stats</summary>
